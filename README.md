@@ -5,7 +5,7 @@ This software belongs to Azhakcer. The coder of the software is @h3.art, also kn
 
 Linux - Kali Linux ,Parrot OS and etc.
 
-git clone 
+git clone https://github.com/azhackercom/azhackerdos.git
 
 cd azhackerdos
 
@@ -18,7 +18,7 @@ python azhackerdos.py
 pkg install python
 pkg install pip
 
-git clone 
+git clone https://github.com/azhackercom/azhackerdos.git
 
 cd azhackerdos
 
